@@ -1,0 +1,14 @@
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/bin/Debug/netcoreapp2.1/WeatherMicroservice.deps.json
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/bin/Debug/netcoreapp2.1/WeatherMicroservice.runtimeconfig.json
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/bin/Debug/netcoreapp2.1/WeatherMicroservice.runtimeconfig.dev.json
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/bin/Debug/netcoreapp2.1/WeatherMicroservice.dll
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/bin/Debug/netcoreapp2.1/WeatherMicroservice.pdb
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.csprojAssemblyReference.cache
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.csproj.CoreCompileInputs.cache
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.RazorAssemblyInfo.cache
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.RazorAssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.AssemblyInfoInputs.cache
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.AssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.RazorTargetAssemblyInfo.cache
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.dll
+/home/jonathan/Desktop/jywkim/WeatherMicroservice/obj/Debug/netcoreapp2.1/WeatherMicroservice.pdb
